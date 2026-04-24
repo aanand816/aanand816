@@ -6,7 +6,6 @@
 Java & Spring Boot · TypeScript / React / Next.js · PostgreSQL / Oracle
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aanand816-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aanand816/)
-[![GitHub Followers](https://img.shields.io/github/followers/aanand816?style=flat-square&logo=github)](https://github.com/aanand816?tab=followers)
 
 </div>
 
