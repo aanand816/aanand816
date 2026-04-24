@@ -31,8 +31,8 @@ Full‑stack Configure‑Price‑Quote (CPQ) administration portal built for a s
 - CPQ domain modules for products, components, items, rate libraries, wording templates, and application configuration.  
 - Oracle wallet integration and Flyway‑driven schema migrations for reliable schema evolution.
 
-> Code for this project is private and not hosted on GitHub but we can find it on [![AllPurposeCPQ](https://img.shields.io/badge/Link-AllPurposeCPQ-blue?style=flat-square&logo=linkedin). I’m happy to discuss the architecture and my contributions in interviews.
-
+> Code for this project is private and not hosted on GitHub, but you can view it on [![AllPurposeCPQ](https://img.shields.io/badge/Link-AllPurposeCPQ-blue?style=flat-square&logo=linkedin)](https://admin.allpurposecpq.com/).
+I'm happy to discuss the architecture and my contributions in interviews.
 ---
 
 ### Dept Admin – Archie Scheduling Module
