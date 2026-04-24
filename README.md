@@ -23,6 +23,18 @@ Java & Spring Boot · TypeScript / React / Next.js · PostgreSQL / Oracle
 
 ## 🚀 Featured Projects
 
+### AllPurposeCPQ (Private Startup Project)
+
+Full‑stack Configure‑Price‑Quote (CPQ) administration portal built for a startup using **Spring Boot 3.5.7 (Java 21)**, **Oracle Autonomous Database**, **Flyway**, and a **React 19 + Vite 7** frontend.
+
+- JWT‑secured APIs for authentication, session management, and token refresh.
+- CPQ domain modules for products, components, items, rate libraries, wording templates, and application configuration.  
+- Oracle wallet integration and Flyway‑driven schema migrations for reliable schema evolution.
+
+> Code for this project is private and not hosted on GitHub. I’m happy to discuss the architecture and my contributions in interviews.
+
+---
+
 ### Dept Admin – Archie Scheduling Module
 
 Next.js 16 + TypeScript module in a multi‑module college scheduling system.
@@ -45,18 +57,6 @@ Game store web application built as an end‑to‑end e‑commerce project.
 - Focus on clean separation between UI components and business logic, with a simple, responsive layout.  
 
 **Repo:** [`aanand816/ArchieGameStore`](https://github.com/aanand816/ArchieGameStore)
-
----
-
-### AllPurposeCPQ (Private Startup Project)
-
-Full‑stack Configure‑Price‑Quote (CPQ) administration portal built for a startup using **Spring Boot 3.5.7 (Java 21)**, **Oracle Autonomous Database**, **Flyway**, and a **React 19 + Vite 7** frontend.
-
-- JWT‑secured APIs for authentication, session management, and token refresh.
-- CPQ domain modules for products, components, items, rate libraries, wording templates, and application configuration.  
-- Oracle wallet integration and Flyway‑driven schema migrations for reliable schema evolution.
-
-> Code for this project is private and not hosted on GitHub. I’m happy to discuss the architecture and my contributions in interviews.
 
 ---
 
