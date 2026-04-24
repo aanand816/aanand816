@@ -45,6 +45,7 @@ Next.js 16 + TypeScript module in a multi‑module college scheduling system.
 - Proxies the Humber Facilities API and combines it with local facilities tables to display room and campus availability.  
 
 **Repo:** [`aanand816/deptadmin`](https://github.com/aanand816/deptadmin)
+**Link:** ['Archie Admin'](https://deptadmin-plum.vercel.app/login)
 
 ---
 
@@ -57,6 +58,7 @@ Game store web application built as an end‑to‑end e‑commerce project.
 - Focus on clean separation between UI components and business logic, with a simple, responsive layout.  
 
 **Repo:** [`aanand816/ArchieGameStore`](https://github.com/aanand816/ArchieGameStore)
+**Link:** ['Archi GameStore'](https://archie-game-store.vercel.app/archie-game-store-all)
 
 ---
 
