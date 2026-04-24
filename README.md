@@ -1,46 +1,51 @@
-# Hi, I'm Aanand 👋
+<div align="center">
+
+# 👋 Hi, I'm Aanand
 
 **Junior Backend / Full‑Stack Developer**  
 Java & Spring Boot · TypeScript / React / Next.js · PostgreSQL / Oracle
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aanand816-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aanand816/)
+[![GitHub Followers](https://img.shields.io/github/followers/aanand816?style=flat-square&logo=github)](https://github.com/aanand816?tab=followers)
 
-## About me
-
-I'm an Information Technology Solutions student at Humber College and a junior backend / full‑stack developer focused on building production‑style web applications.[cite:1][cite:3][cite:5] I enjoy designing clean APIs, working with relational databases, and wiring up modern TypeScript frontends that talk to them.
-
-Recently, I've been working with:
-
-- **Java 21 & Spring Boot 3** – secure REST APIs, JWT auth, Flyway‑managed schemas, Oracle/PostgreSQL backends.[cite:5]
-- **TypeScript, React 19, Next.js 16** – App Router, API routes, stateful UIs, Tailwind + component libraries.[cite:3][cite:6]
-- **SQL & databases** – Neon PostgreSQL with multiple schemas, Oracle Autonomous DB via wallet configuration.[cite:3][cite:5]
+</div>
 
 ---
 
-## Featured projects
+## 🔧 Tech Stack
+
+- **Languages:** Java, TypeScript, JavaScript, SQL, C  
+- **Backend:** Spring Boot (3.x), Node.js/Express (basic), JWT, REST APIs  
+- **Frontend:** React, Next.js (App Router), Angular 18 (standalone components), HTML, CSS, Tailwind  
+- **Databases:** PostgreSQL (Neon), Oracle Autonomous DB, MongoDB (coursework)  
+- **Tools:** Git, GitHub, Postman, Flyway, Vercel, npm
+
+---
+
+## 🚀 Featured Projects
 
 ### Dept Admin – Archie Scheduling Module
 
 Next.js 16 + TypeScript module in a multi‑module college scheduling system.[cite:3]
 
-- Department admin dashboard to manage faculty, courses, facilities, and scheduling.
-- Integrates with **Neon PostgreSQL** using separate schemas for faculty, courses, facilities, and scheduler, accessed via raw `pg` connection pools.
-- Implements **JWT authentication** with httpOnly cookies and Next.js middleware protecting `/app/*` routes; passwords hashed with bcrypt.
-- Proxies external **Humber Facilities API** and merges it with local facilities tables for room and campus availability.
+- Department admin dashboard to manage faculty, courses, facilities, and scheduling.  
+- Integrates with **Neon PostgreSQL** using separate schemas for faculty, courses, facilities, and scheduler, accessed via raw `pg` connection pools.[cite:3]  
+- Implements **JWT authentication** with httpOnly cookies and Next.js middleware protecting `/app/*` routes; passwords hashed with bcrypt.[cite:3]  
+- Proxies the Humber Facilities API and combines it with local facilities tables to display room and campus availability.[cite:3]  
 
-→ Repo: `aanand816/deptadmin`
+**Repo:** [`aanand816/deptadmin`](https://github.com/aanand816/deptadmin)
 
 ---
 
 ### ArchieGameStore – E‑Commerce Web App
 
-Game store web application built as an end‑to‑end e‑commerce project.
+Game store web application built as an end‑to‑end e‑commerce project.[cite:2]
 
-- Browse a catalog of games, view details, and manage a shopping cart.
-- Implements core flows such as add to cart, quantity updates, and basic checkout.
-- Focus on clean separation between frontend UI and business logic, with well‑structured components and routes.
+- Browse a catalog of games, view details, and manage a shopping cart.  
+- Implements add‑to‑cart, quantity updates, and a basic checkout flow.  
+- Focus on clean separation between UI components and business logic, with a simple, responsive layout.  
 
-→ Repo: `aanand816/ArchieGameStore`
+**Repo:** [`aanand816/ArchieGameStore`](https://github.com/aanand816/ArchieGameStore)
 
 ---
 
@@ -48,32 +53,22 @@ Game store web application built as an end‑to‑end e‑commerce project.
 
 Full‑stack Configure‑Price‑Quote (CPQ) administration portal built for a startup using **Spring Boot 3.5.7 (Java 21)**, **Oracle Autonomous Database**, **Flyway**, and a **React 19 + Vite 7** frontend.[cite:5]
 
-- JWT‑secured APIs for authentication, session management, and token refresh.
-- CPQ domain modules for products, components, items, rate libraries, wording templates, and application configuration.
-- Oracle wallet integration and Flyway‑driven schema migrations.
+- JWT‑secured APIs for authentication, session management, and token refresh.[cite:5]  
+- CPQ domain modules for products, components, items, rate libraries, wording templates, and application configuration.[cite:5]  
+- Oracle wallet integration and Flyway‑driven schema migrations for reliable schema evolution.[cite:5]  
 
-> Code for this project is private and not hosted on GitHub. I'm happy to discuss the architecture and my contributions in interviews.
-
----
-
-## Currently learning & building
-
-- **Transit route advisor for the GTA (TTC + GO/UP Express)** – experimenting with GTFS data, multi‑agency routes, and alternative suggestions when default planners miss better options.[memory:64]
-- Deeper Spring Boot patterns (testing strategy, modularization) and advanced TypeScript/React patterns.
+> Code for this project is private and not hosted on GitHub. I’m happy to discuss the architecture and my contributions in interviews.
 
 ---
 
-## Tech stack
+## 🧠 Currently Learning & Building
 
-**Languages:** Java, TypeScript, JavaScript, SQL, C  
-**Backend:** Spring Boot, Node.js/Express (basic), JWT, REST APIs  
-**Frontend:** React, Next.js, Angular (18), HTML, CSS, Tailwind  
-**Databases:** PostgreSQL (Neon), Oracle, MongoDB (coursework)  
-**Tools:** Git, GitHub, Postman, Flyway, Vercel
+- Designing a **Transit Route Advisor** for the GTA (TTC + GO/UP Express) using GTFS data, with smarter alternatives than default planners.[memory:64]  
+- Better testing and modularization patterns in Spring Boot and advanced React/TypeScript patterns.
 
 ---
 
-## Contact
+## 📫 Contact
 
-- **LinkedIn:** [linkedin.com/in/aanand816](https://www.linkedin.com/in/aanand816/)
-- **Email:** aanandsaini968@gmail.com
+- **LinkedIn:** [linkedin.com/in/aanand816](https://www.linkedin.com/in/aanand816/)  
+- **Email:** `aanandsaini968@gmail.com`
